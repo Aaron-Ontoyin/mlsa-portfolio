@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I study Electrical and Electronics Engineering at George Grant University of Mines and Technology. I Love Data Science, Machine Learning, Deep Learning, Quantum Computing, and Software Engineering.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Software Developement",
+  "Data Science",
+  "Deep learning",
+  "Machine learning",
+  "Quantum Computing",
+  "Robotics",
+  "Electrical and Electorincs systems",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Highly motivated and eager-to-learn artificial intelligence (AI) and data engineer with a passion for applying machine learning and deep learning techniques to solve real-world problems. Demonstrated expertise in building numerous complex projects from conception to deployment. Skilled in various programming languages, web development, and data technologies, including Python, SQL, C/C++, JavaScript, and more.";
 
 const About = () => {
   return (

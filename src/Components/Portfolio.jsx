@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "OSAD API (Object, Speech and Audio Detection)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built a test-driven, packed, and robust API that provides endpoints for converting speech to text and vice versa and object detection within images. The API securely manages user authentication with session tokens and password resets through email. Used Flask for the API development, Torch Vision's fasterrcnn_resnet50_fpn_V2 model for object detection, SpeechRecognition for speech-to-text and pyttsx",
+    url: "https://github.com/Aaron-Ontoyin/OSAD-API",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Drillbotics Reseach Competition",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "With my team, I led the development of a python package for simulating directional drilling. We also built an interface for monitoring the processes involved.",
+    url: "https://drillbotics.com/umat-2023-team-on-the-national-news/",
   },
   {
-    title: "My Resume Site",
+    title: "Customer Churn Prediction",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Using predictive modeling, I developed a customer churn prediction system using machine learning models on IBM's telco customer churn data. The models used were logistic regression, random forest, SVM, KNN, naive bayes, and XGBoost.",
+    url: "https://customer-churn-prediction-ontoyin.streamlit.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Image Compression App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I developed an Image compression App that works on multiple image types. The app gives more flexibility allowing you to 'controll your pixels'.",
+    url: "https://the-tech-at-virtual-world.blogspot.com/2023/09/image-compression-web-app.html",
   },
 ];
 
